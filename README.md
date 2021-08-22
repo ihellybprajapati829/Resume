@@ -1,5 +1,5 @@
 # Resume
 
-##My Virtual Resume
+## My Virtual Resume
 
-##Using Glassmorphism UI Concept
+## Using Glassmorphism UI Concept
